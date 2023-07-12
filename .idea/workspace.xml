@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b797958-5e02-4193-8ef4-653fd7c54a45" name="Changes" comment="added basic test">
+    <list default="true" id="9b797958-5e02-4193-8ef4-653fd7c54a45" name="Changes" comment="added Bowling Kata Rules">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sum.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/bowling.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculateScore.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,25 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Github\ts-exercise\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Bowling Score">
+    <configuration name="Bowling Score" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/bowling.test.ts" />
+      <test-names>
+        <test-name value="Bowling Score" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="sum module" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -80,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.Bowling Score" />
         <item itemvalue="Jest.sum module" />
       </list>
     </recent_temporary>
@@ -95,7 +115,7 @@
       <workItem from="1689101986242" duration="32000" />
       <workItem from="1689102046576" duration="2762000" />
       <workItem from="1689189282684" duration="9000" />
-      <workItem from="1689192742075" duration="1673000" />
+      <workItem from="1689192742075" duration="2765000" />
     </task>
     <task id="LOCAL-00001" summary="added basic test">
       <created>1689193783831</created>
@@ -104,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689193783831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added Bowling Kata Rules">
+      <created>1689194459208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689194459208</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added basic test" />
-    <option name="LAST_COMMIT_MESSAGE" value="added basic test" />
+    <MESSAGE value="added Bowling Kata Rules" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Bowling Kata Rules" />
   </component>
 </project>
