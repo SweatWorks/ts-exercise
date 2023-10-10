@@ -3,7 +3,7 @@
 Create a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game.
 
 An example on how the Bowling ScoreSheet looks like, just for reference:
-![image](https://github.com/SweatWorks/ts-exercise/assets/26674417/83cb48fd-67af-4ba9-a6c6-3fc10e85ddb0)
+![image](https://github.com/SweatWorks/ts-exercise/assets/26674417/693c3202-58c8-49f1-92f2-d2d47ec63309)
 
 ### Here are some things that the program will not do:
 
